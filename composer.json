@@ -1,0 +1,21 @@
+{
+    "name": "aracademia/laravelgeoip",
+    "description": "Allow developers to use GeoIP with Laravel",
+    "type": "GeoLocation",
+    "require": {
+        "geoip2/geoip2": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aracademia\\LaravelGeoIP\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rachid Rafia",
+            "email": "rrafiatech@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
